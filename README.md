@@ -73,9 +73,13 @@ print("RMSE ",rmse)
 ## Output:
 
 ![M1](https://user-images.githubusercontent.com/94165415/198832571-0eb09088-e21d-4354-80c9-dcf46b3c4b65.png)
+
 ![M2](https://user-images.githubusercontent.com/94165415/198832583-09760d28-414b-4791-9667-52eaccf8e94f.png)
+
 ![M3](https://user-images.githubusercontent.com/94165415/198832602-ea9d886b-a3e4-40c7-9568-7327d3013b62.png)
+
 ![ml ex2 im](https://user-images.githubusercontent.com/94165415/200007461-6233f2df-557e-42e2-96b5-069df9a5ab30.png)
+
 ![ml ex2](https://user-images.githubusercontent.com/94165415/200007488-8c229e8c-1ac0-4afa-83a2-bde0532369be.png)
 
 ## Result:
